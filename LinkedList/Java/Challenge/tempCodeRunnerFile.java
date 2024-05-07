@@ -1,0 +1,1 @@
+Kode ini dibagikan oleh Dedad Fajar dan dapat diakses melalui github: https://github.com/VictoriaEstara/perancangan-struktur-data
